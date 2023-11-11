@@ -24,3 +24,10 @@ The total charge is: Rs. 24
 1. The program accepts the number of days as input.
 2. It calculates the charge based on the provided criteria.
 3. If the number of days is not within the specified ranges, it displays an "Invalid number of days" message.
+
+## Try it Online
+You can test the program online using Trinket by following this link.
+https://trinket.io/
+
+## Author
+Sudhanshu Ambastha
